@@ -1,4 +1,3 @@
-## Research projects
 
 School choice and social segregation in French middle schools
 
