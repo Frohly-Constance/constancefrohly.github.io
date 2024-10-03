@@ -8,7 +8,4 @@ navigation:
     url: /
   - title: Research
     url: /research.html
-{::comment}
-  - title: Teaching
-    url: /teaching.html
-{:/comment}
+    
