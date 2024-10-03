@@ -3,7 +3,9 @@ layout: home
 title: Constance Frohly
 ---
 
-# Hello, World!
-This is my Jekyll-powered website hosted on GitHub Pages.
+Hi! I am a second-year PhD student in Economics at Sciences Po, under the supervision of Pierre Cahuc and Emeric Henry. 
+
+My interests are in Education and Experimental Economics. I focus on the interaction between school choice and social segregation, with a particular interest in the role of information. 
+
 - [Home](index.html)
 - [Research](Research.md)
