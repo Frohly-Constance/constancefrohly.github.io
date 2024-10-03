@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: Constance Frohly
 ---
 
 Hi! I am a second-year PhD student in Economics at Sciences Po, under the supervision of Pierre Cahuc and Emeric Henry. 
