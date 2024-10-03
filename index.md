@@ -7,5 +7,4 @@ Hi! I am a second-year PhD student in Economics at Sciences Po, under the superv
 
 My interests are in Education and Experimental Economics. I focus on the interaction between school choice and social segregation, with a particular interest in the role of information. 
 
-- [Home](index.html)
 - [Research](Research.md)
