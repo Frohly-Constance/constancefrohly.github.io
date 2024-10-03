@@ -1,4 +1,6 @@
-How Private Schools opening in France affected Social Diversity in Middle Schools
+## Research projects
+
+How private school openings in France affect social segregation in French middle schools
 
 Information Provision, Parental Beliefs and School Choice 
 
