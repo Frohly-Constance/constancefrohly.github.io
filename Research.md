@@ -1,3 +1,7 @@
+---
+layout: page
+title: Research
+---
 
 School choice and social segregation in French middle schools
 
