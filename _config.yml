@@ -4,16 +4,4 @@ description: PhD student at Sciences Po Paris | Education and Experimental Econo
 show_readme: false
 
 
-    {::comment} 
-From _config.yml:
-navigation:
-  - title: About
-    url: /
-  - title: Research
-    url: /research.html
-
-    From index.md: 
-{% include header.html %}
-{:/comment}
-
     
