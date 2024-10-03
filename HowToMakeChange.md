@@ -15,7 +15,8 @@ $ git push origin PublishingSource
 
 
 Old index.html file replace by index.md file:
-`---
+```html
+---
 layout: default
 ---
 <!DOCTYPE html>
@@ -34,7 +35,4 @@ layout: default
     <p>Explore my academic research on the Research page.</p>
 </body>
 </html>
-` 
-
-
-`
+```
