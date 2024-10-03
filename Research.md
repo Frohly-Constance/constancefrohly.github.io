@@ -1,6 +1,6 @@
 ## Research projects
 
-How private school openings in France affect social segregation in French middle schools
+School choice and social segregation in French middle schools
 
 Information Provision, Parental Beliefs and School Choice 
 
