@@ -36,3 +36,17 @@ layout: default
 </body>
 </html>
 ```
+
+
+
+    {::comment} 
+From _config.yml:
+navigation:
+  - title: About
+    url: /
+  - title: Research
+    url: /research.html
+
+    From index.md: 
+{% include header.html %}
+{:/comment}
