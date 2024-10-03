@@ -1,8 +1,8 @@
-{% include header.html %}
 ---
 layout: page
 title: Constance Frohly
 ---
+{% include header.html %}
 
 Hi! I am a second-year PhD student in Economics at Sciences Po, under the supervision of Pierre Cahuc and Emeric Henry. 
 
