@@ -1,4 +1,4 @@
-theme: midnight  # Replace 'minima' with your chosen Jekyll theme
+theme: minima  # Replace 'minima' with your chosen Jekyll theme
 title: constancefrohly.github.io
 description: PhD student at Sciences Po Paris | Education and Experimental Economics. I focus on the interaction between school choice and social segregation, with a particular interest in the role of information.
 show_readme: false
