@@ -3,9 +3,17 @@ title: constancefrohly.github.io
 description: PhD student at Sciences Po Paris | Education and Experimental Economics. I focus on the interaction between school choice and social segregation, with a particular interest in the role of information.
 show_readme: false
 
+
+    {::comment} 
+From _config.yml:
 navigation:
   - title: About
     url: /
   - title: Research
     url: /research.html
+
+    From index.md: 
+{% include header.html %}
+{:/comment}
+
     
